@@ -1,0 +1,19 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpd-file, coding: UTF-8
+#date: Thu Feb 26 2026 18:34:20
+#--EXPERIMENT INFO
+#e mainfile: first_experiment.py
+#e sha1: fb93e0
+#e modules: 
+#e Experiment: Left Right RT Task
+#e no between subject factors
+#e Block 0: Main Block
+#e     block factors: 
+#e     n trials: 4
+#e     trial factors: 
+#--SUBJECT INFO
+#s id: 4
+subject_id,Block,Trial,Key,RT
+4,Main Block,0,1073741904,1532
+4,Main Block,1,1073741903,569
+4,Main Block,2,1073741904,547
+4,Main Block,3,1073741903,385

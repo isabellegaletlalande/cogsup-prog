@@ -1,0 +1,28 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: UTF-8
+#date: Thu Feb 26 2026 18:34:20
+#sha1: fb93e0
+#modules: 
+#display: size=(800, 600), window_mode=False, opengl=2
+#os: uname_result(system='Darwin', node='Isabelles-MacBook-Air.local', release='25.3.0', version='Darwin Kernel Version 25.3.0: Wed Jan 28 20:49:24 PST 2026; root:xnu-12377.81.4~5/RELEASE_ARM64_T8132', machine='arm64')
+Time,Type,Event,Value,Detail,Detail2
+11270,design,log,
+#design: #exp: Left Right RT Task
+#design: #dvn: Block,Trial,Key,RT
+#design: block_cnt,block_id,trial_cnt,trial_id
+#design: 0,0,0,0
+#design: 0,0,1,1
+#design: 0,0,2,2
+#design: 0,0,3,3
+11270,design,logged,
+11270,Experiment,started
+11287,Stimulus,presented,0
+12819,Keyboard,received,1073741904,wait
+12838,Stimulus,presented,1
+13408,Keyboard,received,1073741903,wait
+13419,Stimulus,presented,2
+13967,Keyboard,received,1073741904,wait
+13969,Stimulus,presented,3
+14354,Keyboard,received,1073741903,wait
+14354,Experiment,ended
+14355,Data,saved
+14369,Stimulus,presented,5
