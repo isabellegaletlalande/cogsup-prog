@@ -1,0 +1,18 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: UTF-8
+#date: Thu Mar 12 2026 18:33:02
+#sha1: c75358
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Darwin', node='Isabelles-MacBook-Air.local', release='25.3.0', version='Darwin Kernel Version 25.3.0: Wed Jan 28 20:54:55 PST 2026; root:xnu-12377.91.3~2/RELEASE_ARM64_T8132', machine='arm64')
+Time,Type,Event,Value,Detail,Detail2
+3359,design,log,
+#design: #exp: Display Edges
+#design: block_cnt,block_id,trial_cnt,trial_id
+3359,design,logged,
+3359,Experiment,started
+3359,Stimulus,presented,0
+3369,Stimulus,presented,1
+3389,Stimulus,presented,2
+3390,stderr,received,'Traceback (most recent call last):'
+3390,stderr,received,'  File "/Users/isabellegl/cogsup/programming/Assignments/Week-3/Exercises/display-edges.py", line 57, in <module>\n    square_bottom_right(clear=False, update=True)\n    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^'
+3390,stderr,received,"TypeError: 'Rectangle' object is not callable"
